@@ -1,20 +1,77 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+Siap 👍
+Ini **README.md lengkap + logo di bagian atas**, tinggal **copy–paste**.
+Aku buat netral, rapi, dan siap dipakai di GitHub untuk project **Nusarasa**.
 
-# Run and deploy your AI Studio app
+---
 
-This contains everything you need to run your app locally.
+```md
+<p align="center">
+  <img src="./public/favicon.png" alt="Nusarasa Logo" width="130" />
+</p>
 
-View your app in AI Studio: https://ai.studio/apps/drive/1xNVdZ8iwKbV1vWP9wMXp_R7X6ErzixCJ
+<h1 align="center">🌿 Nusarasa</h1>
 
-## Run Locally
+<p align="center">
+  <i>Rasa asli Bali, dari alam dan budaya yang hidup.</i>
+</p>
 
-**Prerequisites:**  Node.js
+---
 
+## 📖 Tentang Nusarasa
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+**Nusarasa** adalah website official store kuliner khas Bali yang menghadirkan makanan dan minuman autentik berbahan alami, diracik dari resep tradisional, dan disajikan dengan sentuhan modern yang elegan.
+
+Project ini dikembangkan sebagai platform **katalog & transaksi FnB**, dengan fokus pada kesederhanaan, keaslian rasa, dan pengalaman pengguna yang nyaman.
+
+---
+
+## ✨ Fitur Utama
+
+- 🏠 **Home**
+  - Hero section bernuansa Bali
+  - Highlight produk unggulan
+
+- 📖 **Tentang Kami**
+  - Filosofi Nusarasa
+  - Cerita kuliner dan bahan lokal Bali
+
+- 🛍️ **Produk**
+  - Daftar produk makanan & minuman
+  - Kategori produk
+  - Tampilan modern & responsif
+
+- 📦 **Detail Produk**
+  - Deskripsi lengkap
+  - Harga & detail bahan
+  - Tambah ke keranjang
+
+- 🛒 **Keranjang & Checkout**
+  - Ringkasan pesanan
+  - Persiapan pembayaran (QRIS)
+
+- 📞 **Kontak**
+  - Informasi kontak & sosial media
+
+---
+
+## 🎨 Desain & Tema
+
+- **Warna utama**: Emerald Green (nuansa Bali)
+- **Gaya**: Autentik, natural, modern
+- **UI**: Minimalis & fokus ke produk
+- **Responsive**: Desktop & mobile friendly
+
+---
+
+## 🧱 Tech Stack
+
+### Frontend
+- ⚛️ React
+- ⚡ Vite
+- 🎨 Tailwind CSS
+- 🔀 React Router DOM
+- 🟦 TypeScript
+- 🎯 Lucide React (icons)
+
+### Deployment
+- ☁️ Vercel

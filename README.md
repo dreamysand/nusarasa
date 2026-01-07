@@ -1,10 +1,3 @@
-Siap 👍
-Ini **README.md lengkap + logo di bagian atas**, tinggal **copy–paste**.
-Aku buat netral, rapi, dan siap dipakai di GitHub untuk project **Nusarasa**.
-
----
-
-```md
 <p align="center">
   <img src="./public/favicon.png" alt="Nusarasa Logo" width="130" />
 </p>
